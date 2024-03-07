@@ -43,7 +43,12 @@ __http://clermontyping.iame-research.center/.__
 	* knitr
 
 ### Installation
-...
+
+Install the software mentioned above.
+Download this main branch and unzip it.
+    chmod +x clermonTyping.sh
+    chmod +x bin/clermont.py
+    chmod +x bin/mash
 ## Command line options
 
 ### Main script usage
